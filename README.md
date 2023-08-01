@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a webapp using HTML, CSS, JS and React!
 - 🌱 I’m currently learning JavaScript and React
-- 🤔 I’m looking for help with looking for an internship!
+- 🤔 I’m looking for an internship!
 - 📫 How to reach me: ahmedkhilji99@gmail.com
 - ⚡ Fun fact: I am a Music Lover and Gamer!
 
