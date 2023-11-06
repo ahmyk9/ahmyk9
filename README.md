@@ -3,10 +3,9 @@
 - 💬 Here is my Website: https://ahmedkhilji.vercel.app/
 
 - 🔭 I’m currently working on a webapp using HTML, CSS, JS and React!
-- 🌱 I’m currently learning JavaScript and React
-- 🤔 I’m looking for work experience!
+- 🌱 I’m currently a student!
 - 📫 How to reach me: ahmedkhilji99@gmail.com
-- ⚡ Fun fact: I am a Music Lover and Gamer!
+
 
 <!--
 **ahmyk9/ahmyk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
