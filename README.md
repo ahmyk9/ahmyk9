@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 💬 Here is my Website: https://ahmedkhilji.vercel.app/
-
-- 🔭 I’m currently working on a webapp using HTML, CSS, JS and React!
 - 🌱 I’m currently a student!
 - 📫 How to reach me: ahmedkhilji99@gmail.com
 
