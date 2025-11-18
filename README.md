@@ -13,7 +13,3 @@ Check me out. Xie Xie
 - 📫 How to reach me: ahmedkhilji99@gmail.com
 - 🟦 LinkedIn : https://www.linkedin.com/in/ahmed-khilji-45b509169/
 
----
-[![](https://visitcount.itsvg.in/api?id=ahmyk9&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
