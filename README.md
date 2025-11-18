@@ -3,7 +3,7 @@
 - 💬 Here is my Website: https://ahmedkhilji.vercel.app/
 - 📫 How to reach me: ahmedkhilji99@gmail.com
 
-I'm Ahmed, a full-stack developer based in Australia — always building, always learning, and always shipping.
+I'm Ahmed, a full-stack developer based in Australia. Always doing something.
 
 I love turning ideas into clean, functional interfaces and tools. Whether it's open source projects, if something pops in my head, chances are I’ll prototype it the same night.
 
