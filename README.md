@@ -5,7 +5,7 @@
 
 I'm Ahmed, a full-stack developer based in Australia. Always doing something.
 
-I do be working on open source projects, if something pops in my head, chances are I’ll prototype and never touch it again because if it gotta be a billion dollar idea right?.
+I do be working on open source projects, if something pops in my head, chances are I’ll prototype and never touch it again because it gotta be a billion dollar idea. Right?
 
 My main stack these days is JavaScript/TypeScript, React, Tailwind, Node.js, and Next.js. I enjoy designing smooth UI flows, debugging complex problems, and making products feel fast and intuitive.
 I also experiment with AI integrations, cloud-hosted apps, and data-driven tools.
