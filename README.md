@@ -3,6 +3,25 @@
 - 💬 Here is my Website: https://ahmedkhilji.vercel.app/
 - 📫 How to reach me: ahmedkhilji99@gmail.com
 
+I'm Ahmed, a full-stack developer based in Australia — always building, always learning, and always shipping.
+
+I love turning ideas into clean, functional interfaces and tools. Whether it's open source projects, if something pops in my head, chances are I’ll prototype it the same night.
+
+My main stack these days is JavaScript/TypeScript, React, Tailwind, Node.js, and Next.js. I enjoy designing smooth UI flows, debugging complex problems, and making products feel fast and intuitive.
+I also experiment with AI integrations, cloud-hosted apps, and data-driven tools.
+
+I’ve built a bunch of projects. Some internal for work, some public, some just experiments. 
+
+
+Fun Facts
+
+I go to the gym, love optimizing routines, and follow Huberman protocols (mostly 👀).
+
+My hobbies: gym, makin video edits, photography, building random tools and apps, and huge music enjoyer (enjoyer?).
+
+I love clean UI/UX and spend way too long perfecting tiny details.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-khilji-45b509169/) 
 
