@@ -9,7 +9,7 @@ I also experiment with AI integrations, cloud-hosted apps, and data-driven tools
 
 Check me out. Xie Xie
 
-- 💬 Here is my Website: https://ahmedkhilji.vercel.app/
+- 💬 Here is my Website: https://ahmedkhilji.vercel.app/ <-- Resume Here!
 - 📫 How to reach me: ahmedkhilji99@gmail.com
 - 🟦 LinkedIn : https://www.linkedin.com/in/ahmed-khilji-45b509169/
 
